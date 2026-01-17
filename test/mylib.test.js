@@ -11,7 +11,7 @@ describe("MyLib - Test Suite", () => {
   
   // Print test footer after all tests
   after(() => {
-    printFooter("UNIT TESTS FINISHED!", "✅");
+    printFooter("UNIT TESTS FINISHED!", "🏁");
   });
   
   describe("Testing function add()", () => {
