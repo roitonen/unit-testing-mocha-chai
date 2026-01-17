@@ -1,0 +1,25 @@
+{
+  "name": "unit-testing-mocha-chai",
+  "version": "1.0.0",
+  "description": "Unit testing example in JavaScript using Mocha and Chai",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roitonen/unit-testing-mocha-chai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roitonen/unit-testing-mocha-chai/issues"
+  },
+  "homepage": "https://github.com/roitonen/unit-testing-mocha-chai#readme",
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5"
+  }
+}
