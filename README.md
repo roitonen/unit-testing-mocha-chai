@@ -48,5 +48,8 @@ This project demonstrates how to set up unit testing in JavaScript using Mocha a
 # Example Output
 
 ![Main Output](screenshots/main-output.png)
+
+# Example Test Output
+
 ![Test Output](screenshots/test-output.png)
 
